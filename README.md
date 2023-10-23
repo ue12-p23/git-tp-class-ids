@@ -2,9 +2,9 @@
 
 ## préparation
 
-* pour que les données restent anonymes,
+* pour que les données restent anonymes,  
   le prof donne à chaque élève un numéro distinct (en commençant à 1)
-* le prof a créé un repo sur github (en clonant celui-ci)
+* le prof a créé un repo sur github (en clonant celui-ci)  
   par exemple dans `ue12-p23/tp-class-text-groupe4`
 * qui contient notamment
   * `CLASS-COMPLETE.txt` avec un texte où les lignes sont numérotées
